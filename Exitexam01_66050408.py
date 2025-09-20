@@ -3,4 +3,3 @@ def func(a):
     return "hello...."
 func("hello")
 func("toon")
-func()
